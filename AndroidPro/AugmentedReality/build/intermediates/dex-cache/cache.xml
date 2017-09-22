@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\TEST\Documents\Abhishek_AR\ARLearn\ARLearn\Arlearn\AndroidPro\AugmentedReality\libs\Vuforia.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\TEST\Documents\Abhishek_AR\ARLearn\ARLearn\Arlearn\AndroidPro\AugmentedReality\build\intermediates\pre-dexed\debug\Vuforia_a58d021763ed030e03eb7ab026a1e3f769b966db.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEST\Documents\Abhishek_AR\ARLearn\ARLearn\Arlearn\AndroidPro\AugmentedReality\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\TEST\Documents\Abhishek_AR\ARLearn\ARLearn\Arlearn\AndroidPro\AugmentedReality\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_f424964dadefc00fd2d67e5271ab7f83dbf003fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEST\Documents\Abhishek_AR\ARLearn\ARLearn\Arlearn\AndroidPro\AugmentedReality\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="4cdcec43cf45828036b0a12c88602e60520eac00">
+        <dex dex="C:\Users\TEST\Documents\Abhishek_AR\ARLearn\ARLearn\Arlearn\AndroidPro\AugmentedReality\build\intermediates\pre-dexed\debug\unity-classes_adef99c7be1907bcfcdfce0f76ff8875a9eb33a8.jar" />
+    </item>
+
+</items>
